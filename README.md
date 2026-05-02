@@ -1,16 +1,20 @@
 Projeto NexCode - Grupo InnControl:
+
 Sistema de gestão hoteleira desenvolvido para o Pluma Hotel Cidade.
 
 
 Projeto:
+
 O NexCode é um projeto acadêmico desenvolvido como parte da disciplina de Projeto Integrador do 1º semestre do curso de Análise e Desenvolvimento de Sistemas da Fatec Americana.
 
 
 Objetivo:
+
 O NexCode tem como objetivo substituir os processos manuais do hotel por um sistema simples, visual e intuitivo, acessível para funcionários de todos os perfis. O sistema busca eliminar a perda de informações causada pelo uso de papel, melhorar a comunicação entre os setores do hotel e organizar o controle financeiro, reduzindo erros operacionais e prejuízos no dia a dia.
 
 
 Integrantes:
+
 Yasmin Botelho de Souza 
 
 Lorenzo Cabral Gomes 
@@ -24,10 +28,12 @@ Matheus de Jesus Souza
 
 
 Documentação:
+
 A documentação completa do projeto está disponível na pasta /documentacao deste repositório.
 
 
 Instituição:
+
 Fatec Americana 
 
 Curso: Análise e Desenvolvimento de Sistemas
