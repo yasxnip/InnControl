@@ -11,11 +11,16 @@ O NexCode tem como objetivo substituir os processos manuais do hotel por um sist
 
 
 Integrantes:
-| Yasmin Botelho de Souza |
-| Lorenzo Cabral Gomes |
-| João Pedhro Fabbris |
-| Isabeli Vitória da Silva Souza |
-| Matheus de Jesus Souza |
+Yasmin Botelho de Souza 
+
+Lorenzo Cabral Gomes 
+
+João Pedhro Fabbris 
+
+Isabeli Vitória da Silva Souza 
+
+Matheus de Jesus Souza 
+
 
 
 Documentação:
@@ -24,9 +29,12 @@ A documentação completa do projeto está disponível na pasta /documentacao de
 
 Instituição:
 Fatec Americana 
+
 Curso: Análise e Desenvolvimento de Sistemas
+
 Semestre: 1º - 2026
 
 
-Planner Microsoft
+Planner Microsoft:
+
 https://planner.cloud.microsoft/webui/v1/plan/EVNgTo94b0OFNbdkXb66YWQAEauf?tid=eabe64c5-68f5-4a76-8301-9577a679e449
