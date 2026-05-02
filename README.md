@@ -11,11 +11,11 @@ O NexCode tem como objetivo substituir os processos manuais do hotel por um sist
 
 
 Integrantes:
-Yasmin Botelho de Souza 
-Lorenzo Cabral Gomes 
-João Pedhro Fabbris 
-Isabeli Vitória da Silva Souza 
-Matheus de Jesus Souza 
+| Yasmin Botelho de Souza |
+| Lorenzo Cabral Gomes |
+| João Pedhro Fabbris |
+| Isabeli Vitória da Silva Souza |
+| Matheus de Jesus Souza |
 
 
 Documentação:
